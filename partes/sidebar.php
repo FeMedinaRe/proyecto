@@ -20,7 +20,7 @@
                 Despachos </a>
 
                 <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-drumstick-bite"></i>
-                Asignaciones</a>
+                contribuir</a>
 
                 <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-drumstick-bite"></i>
                 Trabajos</a>
