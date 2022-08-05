@@ -26,7 +26,7 @@
                 Trabajos</a>
 
                 <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-drumstick-bite"></i>
-                Garantías</a>
+                aloalo</a>
 
                 <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-drumstick-bite"></i>
                 Seguros </a>
